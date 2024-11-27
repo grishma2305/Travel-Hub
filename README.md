@@ -1,7 +1,3 @@
-Here’s a draft for the `README.md` file for your *Travel Hub* project:
-
----
-
 # Travel Hub
 
 **Travel Hub** is a user-friendly travel website designed to simplify trip planning and enhance the travel experience. It provides users with detailed itineraries, information on various tours, and a streamlined booking process. The platform combines backend and frontend technologies to deliver a seamless and efficient experience for travelers.
